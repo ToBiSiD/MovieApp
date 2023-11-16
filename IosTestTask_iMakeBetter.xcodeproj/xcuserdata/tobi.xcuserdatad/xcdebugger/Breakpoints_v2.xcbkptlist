@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7196C05D-889E-4811-A39C-4017D5235F6F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IosTestTask_iMakeBetter/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loadMovieData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544 - 8cbbe33380147cb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in IosTestTask_iMakeBetter.MovieViewModel.loadMovieData() -&gt; ()"
+                  moduleName = "IosTestTask_iMakeBetter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobi/Desktop/IosTestTask_iMakeBetter/IosTestTask_iMakeBetter/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544 - f4cd3577bf70a6b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in IosTestTask_iMakeBetter.MovieViewModel.loadMovieData() -&gt; ()"
+                  moduleName = "IosTestTask_iMakeBetter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobi/Desktop/IosTestTask_iMakeBetter/IosTestTask_iMakeBetter/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544 - 7c958c47101300bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in IosTestTask_iMakeBetter.MovieViewModel.loadMovieData() -&gt; ()"
+                  moduleName = "IosTestTask_iMakeBetter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobi/Desktop/IosTestTask_iMakeBetter/IosTestTask_iMakeBetter/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544 - 357881dcd80eaabc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in IosTestTask_iMakeBetter.MovieViewModel.loadMovieData() -&gt; ()"
+                  moduleName = "IosTestTask_iMakeBetter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobi/Desktop/IosTestTask_iMakeBetter/IosTestTask_iMakeBetter/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8E627B4D-5FCB-4337-9B6C-2775D2C61544 - 7c958c47101300bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in IosTestTask_iMakeBetter.MovieViewModel.loadMovieData() -&gt; ()"
+                  moduleName = "IosTestTask_iMakeBetter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tobi/Desktop/IosTestTask_iMakeBetter/IosTestTask_iMakeBetter/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
